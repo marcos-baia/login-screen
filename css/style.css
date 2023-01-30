@@ -13,3 +13,7 @@ body {
   /* background-position-y: -200px;    Caso queira reposicionar a imagem*/
 }
 
+/* borda de seleção no input*/
+textarea:focus, input:focus{
+  outline: none;
+}
