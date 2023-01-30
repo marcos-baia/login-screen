@@ -7,3 +7,9 @@
   border: none;
 }
 
+body {
+  background-image: url('../assets/background.jpg');
+  background-size: cover;
+  /* background-position-y: -200px;    Caso queira reposicionar a imagem*/
+}
+
