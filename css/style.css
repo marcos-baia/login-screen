@@ -108,3 +108,8 @@ input[type="submit"]:hover {
 .fa-linkedin {
   background-color: #0077B5;
 }
+
+/* registar */
+#register-container p {
+  margin-bottom: 10px;
+}
