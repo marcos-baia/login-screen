@@ -17,3 +17,12 @@ body {
 textarea:focus, input:focus{
   outline: none;
 }
+
+a {
+  font-size: .8rem;
+}
+
+a:hover {
+  color: #08558B;
+}
+
